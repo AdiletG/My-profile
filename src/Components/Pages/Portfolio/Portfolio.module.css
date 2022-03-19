@@ -1,0 +1,11 @@
+.section{
+    width: 100%;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: inset 0 0.5px 2px 1px    rgba(239, 232, 232, 0.6) ;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+    margin-top: 25px;
+}
